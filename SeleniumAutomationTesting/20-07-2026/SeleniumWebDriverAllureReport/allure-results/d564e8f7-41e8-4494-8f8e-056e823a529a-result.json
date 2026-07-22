@@ -1,0 +1,4 @@
+{"uuid":"d564e8f7-41e8-4494-8f8e-056e823a529a","historyId":"11d32b3dd4ba8634f31bfb1c2f8f9e23","fullName":"com.WebDriverCommonds.BrowserCommand.EdgeBrowserTest","titlePath":["Suite","Test","com","WebDriverCommonds","BrowserCommand"],"labels":[{"name":"package","value":"com.WebDriverCommonds.BrowserCommand"},{"name":"testClass","value":"com.WebDriverCommonds.BrowserCommand"},{"name":"testMethod","value":"EdgeBrowserTest"},{"name":"parentSuite","value":"Suite"},{"name":"suite","value":"Test"},{"name":"subSuite","value":"com.WebDriverCommonds.BrowserCommand"},{"name":"host","value":"Manu"},{"name":"thread","value":"20144@Manu.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"EdgeBrowserTest","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1784538006874,"stop":1784538065985}
+
+
+
