@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1784784773996,1906,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,122020,149,10,10,https://practicetestautomation.com/practice-test-login/,1813,0,837
+1784784774595,1309,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,121872,149,10,10,https://practicetestautomation.com/practice-test-login/,1214,0,248
+1784784774392,1525,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,122027,149,10,10,https://practicetestautomation.com/practice-test-login/,1417,0,441
+1784784774197,1732,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,122025,149,10,10,https://practicetestautomation.com/practice-test-login/,1612,0,636
+1784784773948,2050,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,122019,149,10,10,https://practicetestautomation.com/practice-test-login/,1861,0,886
+1784784774790,1308,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,122023,149,10,10,https://practicetestautomation.com/practice-test-login/,1170,0,232
+1784784774989,1331,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,121866,149,10,10,https://practicetestautomation.com/practice-test-login/,1196,0,213
+1784784775233,1241,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,122029,149,10,10,https://practicetestautomation.com/practice-test-login/,1115,0,195
+1784784775391,1270,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,122021,149,10,10,https://practicetestautomation.com/practice-test-login/,1148,0,220
+1784784775588,1339,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,121877,149,10,10,https://practicetestautomation.com/practice-test-login/,1153,0,241
+1784784776100,1438,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,1221,0,689
+1784784777538,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-6,text,false,,871,0,10,10,null,0,0,0
+1784784776322,1228,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,1222,0,538
+1784784777551,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-7,text,false,,871,0,10,10,null,0,0,0
+1784784775931,1626,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,1182,0,866
+1784784777558,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-3,text,false,,871,0,10,10,null,0,0,0
+1784784775908,1669,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,1197,0,884
+1784784777578,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-5,text,false,,871,0,10,10,null,0,0,0
+1784784775907,1675,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,1671,0,886
+1784784777583,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-2,text,false,,871,0,10,10,null,0,0,0
+1784784775919,1682,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,1190,0,878
+1784784777601,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-4,text,false,,871,0,10,10,null,0,0,0
+1784784776000,1608,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,1565,0,797
+1784784777609,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-1,text,false,,871,0,10,10,null,0,0,0
+1784784776663,1242,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,1234,0,596
+1784784777906,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-9,text,false,,871,0,10,10,null,0,0,0
+1784784776476,1443,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,1431,0,635
+1784784777919,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-8,text,false,,871,0,10,10,null,0,0,0
+1784784776929,1275,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,1268,0,658
+1784784778204,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-10,text,false,,871,0,10,10,null,0,0,0
+1784784777586,1483,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,333294,134,10,10,https://www.hollandandbarrett.com/basket,770,0,142
+1784784777552,1540,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,332064,134,10,10,https://www.hollandandbarrett.com/basket,851,0,180
+1784784777603,1546,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,329485,134,10,10,https://www.hollandandbarrett.com/basket,814,0,125
+1784784777610,1544,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,331119,134,10,10,https://www.hollandandbarrett.com/basket,805,0,118
+1784784777580,1574,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,333788,134,10,10,https://www.hollandandbarrett.com/basket,836,0,147
+1784784777540,1672,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,335153,134,10,10,https://www.hollandandbarrett.com/basket,948,0,158
+1784784777907,1394,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,330980,134,10,10,https://www.hollandandbarrett.com/basket,748,0,63
+1784784777921,1387,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,331150,134,10,10,https://www.hollandandbarrett.com/basket,709,0,50
+1784784778206,1293,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,331941,134,10,10,https://www.hollandandbarrett.com/basket,675,0,58
+1784784777559,2090,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,333766,134,10,10,https://www.hollandandbarrett.com/basket,873,0,168
+1784784779310,364,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,360,0,71
+1784784779093,730,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,700,0,173
+1784784779071,761,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,727,0,195
+1784784779155,678,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,654,0,113
+1784784779150,691,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,660,0,132
+1784784779155,695,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,654,0,111
+1784784779213,643,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,615,0,104
+1784784779302,625,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,589,0,75
+1784784779650,329,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,327,0,49
+1784784779500,633,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,595,0,81
+1784784779675,1184,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,53527,125,10,10,https://automationexercise.com/#google_vignette,1151,0,210
+1784784779824,1159,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,53524,125,10,10,https://automationexercise.com/#google_vignette,1117,0,193
+1784784780861,128,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-8,text,false,,6635,126,10,10,https://www.signalhire.com/login,126,0,95
+1784784780985,75,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-7,text,false,,6635,126,10,10,https://www.signalhire.com/login,75,0,49
+1784784779857,1205,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,53526,125,10,10,https://automationexercise.com/#google_vignette,1167,0,204
+1784784779843,1242,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,53530,125,10,10,https://automationexercise.com/#google_vignette,1196,0,202
+1784784779852,1237,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,53515,125,10,10,https://automationexercise.com/#google_vignette,1196,0,246
+1784784779833,1258,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,53525,125,10,10,https://automationexercise.com/#google_vignette,1225,0,228
+1784784779980,1203,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,53522,125,10,10,https://automationexercise.com/#google_vignette,1172,0,190
+1784784781087,102,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-4,text,false,,6635,126,10,10,https://www.signalhire.com/login,102,0,75
+1784784781064,125,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-6,text,false,,6634,126,10,10,https://www.signalhire.com/login,125,0,98
+1784784779835,1355,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,53530,125,10,10,https://automationexercise.com/#google_vignette,1317,0,252
+1784784779927,1265,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,53525,125,10,10,https://automationexercise.com/#google_vignette,1240,0,256
+1784784781093,118,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-2,text,false,,6635,126,10,10,https://www.signalhire.com/login,118,0,69
+1784784781090,122,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-5,text,false,,6635,126,10,10,https://www.signalhire.com/login,121,0,73
+1784784781193,96,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-9,text,false,,6635,126,10,10,https://www.signalhire.com/login,96,0,57
+1784784781191,100,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-1,text,false,,6635,126,10,10,https://www.signalhire.com/login,100,0,59
+1784784781184,108,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-3,text,false,,6635,126,10,10,https://www.signalhire.com/login,105,0,66
+1784784780181,1116,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,53525,125,10,10,https://automationexercise.com/#google_vignette,1092,0,205
+1784784781298,85,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-10,text,false,,6634,126,10,10,https://www.signalhire.com/login,81,0,50
+1784784781293,1718,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-3,text,false,,15033,129,10,10,https://personal.chase.com/personal,1444,0,1116
+1784784781191,1846,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-4,text,false,,15033,129,10,10,https://personal.chase.com/personal,1556,0,1230
+1784784781293,1749,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-1,text,false,,15033,129,10,10,https://personal.chase.com/personal,1463,0,1125
+1784784780991,2065,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-8,text,false,,15033,129,10,10,https://personal.chase.com/personal,1776,0,1434
+1784784781212,1847,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-5,text,false,,15033,129,10,10,https://personal.chase.com/personal,1555,0,1218
+1784784781290,1780,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-9,text,false,,15033,129,10,10,https://personal.chase.com/personal,1490,0,1150
+1784784781385,1714,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-10,text,false,,15033,129,10,10,https://personal.chase.com/personal,1419,0,1075
+1784784781212,1915,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-2,text,false,,15033,129,10,10,https://personal.chase.com/personal,1568,0,1225
+1784784781191,1936,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-6,text,false,,15033,129,10,10,https://personal.chase.com/personal,1626,0,1276
+1784784781062,2073,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-7,text,false,,15033,129,10,10,https://personal.chase.com/personal,1728,0,1386
+1784784783038,952,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,122024,149,10,10,https://practicetestautomation.com/practice-test-login/,880,0,0
+1784784783057,1035,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,122024,149,10,10,https://practicetestautomation.com/practice-test-login/,923,0,0
+1784784783071,1023,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,122020,149,10,10,https://practicetestautomation.com/practice-test-login/,905,0,0
+1784784783012,1084,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,122032,149,10,10,https://practicetestautomation.com/practice-test-login/,964,0,0
+1784784783128,1023,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,122024,149,10,10,https://practicetestautomation.com/practice-test-login/,892,0,0
+1784784783100,1054,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,121869,149,10,10,https://practicetestautomation.com/practice-test-login/,915,0,0
+1784784783043,1113,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,122020,149,10,10,https://practicetestautomation.com/practice-test-login/,974,0,0
+1784784783128,1071,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,122032,149,10,10,https://practicetestautomation.com/practice-test-login/,977,0,0
+1784784783059,1166,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,121865,149,10,10,https://practicetestautomation.com/practice-test-login/,1096,0,0
+1784784783135,1096,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,121871,149,10,10,https://practicetestautomation.com/practice-test-login/,1069,0,0
+1784784783989,955,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,650,0,0
+1784784784945,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-4,text,false,,871,0,10,10,null,0,0,0
+1784784784095,925,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,653,0,0
+1784784785021,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-3,text,false,,871,0,10,10,null,0,0,0
+1784784784231,809,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,547,0,0
+1784784785041,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-7,text,false,,871,0,10,10,null,0,0,0
+1784784784093,962,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,671,0,0
+1784784785056,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-9,text,false,,871,0,10,10,null,0,0,0
+1784784784199,858,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,585,0,0
+1784784785057,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-6,text,false,,871,0,10,10,null,0,0,0
+1784784784091,980,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,682,0,0
+1784784785071,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-8,text,false,,871,0,10,10,null,0,0,0
+1784784784225,868,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,587,0,0
+1784784785093,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-5,text,false,,871,0,10,10,null,0,0,0
+1784784784155,951,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,665,0,0
+1784784785106,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-1,text,false,,871,0,10,10,null,0,0,0
+1784784784153,955,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,669,0,0
+1784784785108,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-10,text,false,,871,0,10,10,null,0,0,0
+1784784784151,961,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,672,0,0
+1784784785112,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-2,text,false,,871,0,10,10,null,0,0,0
+1784784784946,1443,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,333316,134,10,10,https://www.hollandandbarrett.com/basket,693,0,0
+1784784785021,1407,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,330474,134,10,10,https://www.hollandandbarrett.com/basket,764,0,0
+1784784785072,1419,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,336091,134,10,10,https://www.hollandandbarrett.com/basket,637,0,0
+1784784785108,1416,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,333392,134,10,10,https://www.hollandandbarrett.com/basket,803,0,0
+1784784785043,1504,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,334745,134,10,10,https://www.hollandandbarrett.com/basket,686,0,0
+1784784785057,1519,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,334756,134,10,10,https://www.hollandandbarrett.com/basket,680,0,0
+1784784785112,1471,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,329095,134,10,10,https://www.hollandandbarrett.com/basket,856,0,0
+1784784785106,1527,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,329147,134,10,10,https://www.hollandandbarrett.com/basket,726,0,0
+1784784785094,1629,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,334734,134,10,10,https://www.hollandandbarrett.com/basket,757,0,0
+1784784786390,365,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,358,0,0
+1784784786429,329,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,324,0,0
+1784784786491,395,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,393,0,0
+1784784786548,366,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,356,0,0
+1784784786634,300,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,286,0,0
+1784784786584,351,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,345,0,0
+1784784786577,360,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,335,0,0
+1784784786525,413,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,412,0,0
+1784784785057,1906,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,331935,134,10,10,https://www.hollandandbarrett.com/basket,759,0,0
+1784784786724,292,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,283,0,0
+1784784786964,302,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,293,0,0
+1784784786759,917,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,53522,125,10,10,https://automationexercise.com/#google_vignette,860,0,0
+1784784786755,924,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,53521,125,10,10,https://automationexercise.com/#google_vignette,912,0,0
+1784784787680,51,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-4,text,false,,6635,126,10,10,https://www.signalhire.com/login,51,0,0
+1784784787677,55,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-3,text,false,,6635,126,10,10,https://www.signalhire.com/login,54,0,0
+1784784786886,932,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,53519,125,10,10,https://automationexercise.com/#google_vignette,911,0,0
+1784784787819,38,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-8,text,false,,6635,126,10,10,https://www.signalhire.com/login,28,0,0
+1784784786915,970,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,53521,125,10,10,https://automationexercise.com/#google_vignette,919,0,0
+1784784786938,947,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,53521,125,10,10,https://automationexercise.com/#google_vignette,886,0,0
+1784784786935,959,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,53525,125,10,10,https://automationexercise.com/#google_vignette,911,0,0
+1784784786937,959,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,53525,125,10,10,https://automationexercise.com/#google_vignette,909,0,0
+1784784786935,981,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,53519,125,10,10,https://automationexercise.com/#google_vignette,961,0,0
+1784784787885,55,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-7,text,false,,6635,126,10,10,https://www.signalhire.com/login,54,0,0
+1784784787885,60,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-10,text,false,,6635,126,10,10,https://www.signalhire.com/login,60,0,0
+1784784787896,50,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-9,text,false,,6635,126,10,10,https://www.signalhire.com/login,49,0,0
+1784784787895,52,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-2,text,false,,6634,126,10,10,https://www.signalhire.com/login,50,0,0
+1784784787017,943,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,53521,125,10,10,https://automationexercise.com/#google_vignette,924,0,0
+1784784787917,49,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-1,text,false,,6635,126,10,10,https://www.signalhire.com/login,49,0,0
+1784784787961,32,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-5,text,false,,6634,126,10,10,https://www.signalhire.com/login,31,0,0
+1784784787732,334,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-4,text,false,,15033,129,10,10,https://personal.chase.com/personal,331,0,0
+1784784787266,926,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,53533,125,10,10,https://automationexercise.com/#google_vignette,903,0,0
+1784784787857,353,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-8,text,false,,15033,129,10,10,https://personal.chase.com/personal,352,0,0
+1784784788192,38,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-6,text,false,,6635,126,10,10,https://www.signalhire.com/login,37,0,0
+1784784787946,342,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-9,text,false,,15033,129,10,10,https://personal.chase.com/personal,341,0,0
+1784784787947,344,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-2,text,false,,15033,129,10,10,https://personal.chase.com/personal,342,0,0
+1784784787946,350,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-10,text,false,,15033,129,10,10,https://personal.chase.com/personal,348,0,0
+1784784787940,368,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-7,text,false,,15033,129,10,10,https://personal.chase.com/personal,355,0,0
+1784784787967,347,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-1,text,false,,15033,129,10,10,https://personal.chase.com/personal,341,0,0
+1784784787733,606,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-3,text,false,,15033,129,10,10,https://personal.chase.com/personal,330,0,0
+1784784787993,355,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-5,text,false,,15033,129,10,10,https://personal.chase.com/personal,347,0,0
+1784784788066,397,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,122040,149,10,10,https://practicetestautomation.com/practice-test-login/,341,0,0
+1784784788211,403,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,122026,149,10,10,https://practicetestautomation.com/practice-test-login/,343,0,0
+1784784788292,418,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,122026,149,10,10,https://practicetestautomation.com/practice-test-login/,330,0,0
+1784784788289,421,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,122020,149,10,10,https://practicetestautomation.com/practice-test-login/,333,0,0
+1784784788296,517,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,121867,149,10,10,https://practicetestautomation.com/practice-test-login/,404,0,0
+1784784788314,517,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,122020,149,10,10,https://practicetestautomation.com/practice-test-login/,392,0,0
+1784784788308,524,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,121877,149,10,10,https://practicetestautomation.com/practice-test-login/,426,0,0
+1784784788340,497,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,122026,149,10,10,https://practicetestautomation.com/practice-test-login/,407,0,0
+1784784788349,517,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,121871,149,10,10,https://practicetestautomation.com/practice-test-login/,468,0,0
+1784784788464,1050,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,732,0,0
+1784784789515,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-4,text,false,,871,0,10,10,null,0,0,0
+1784784788614,956,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,657,0,0
+1784784789571,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-8,text,false,,871,0,10,10,null,0,0,0
+1784784788711,932,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,636,0,0
+1784784789644,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-2,text,false,,871,0,10,10,null,0,0,0
+1784784788711,933,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,645,0,0
+1784784789645,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-9,text,false,,871,0,10,10,null,0,0,0
+1784784788833,851,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,579,0,0
+1784784789686,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-7,text,false,,871,0,10,10,null,0,0,0
+1784784788837,876,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,605,0,0
+1784784789715,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-3,text,false,,871,0,10,10,null,0,0,0
+1784784788831,909,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,626,0,0
+1784784789741,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-1,text,false,,871,0,10,10,null,0,0,0
+1784784788866,899,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,604,0,0
+1784784789766,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-5,text,false,,871,0,10,10,null,0,0,0
+1784784788813,970,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,660,0,0
+1784784789785,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-10,text,false,,871,0,10,10,null,0,0,0
+1784784789516,528,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,325289,134,10,10,https://www.hollandandbarrett.com/basket,389,0,0
+1784784788230,1867,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-6,text,false,,15033,129,10,10,https://personal.chase.com/personal,956,0,0
+1784784789572,579,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,330943,134,10,10,https://www.hollandandbarrett.com/basket,444,0,0
+1784784790045,285,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,278,0,0
+1784784789686,707,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,330424,134,10,10,https://www.hollandandbarrett.com/basket,420,0,0
+1784784789645,789,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,333289,134,10,10,https://www.hollandandbarrett.com/basket,409,0,0
+1784784790152,327,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,322,0,0
+1784784790330,348,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,53531,125,10,10,https://automationexercise.com/#google_vignette,320,0,0
+1784784790394,285,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,275,0,0
+1784784790679,51,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-4,text,false,,6635,126,10,10,https://www.signalhire.com/login,50,0,0
+1784784790435,320,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,319,0,0
+1784784789645,1289,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,332309,134,10,10,https://www.hollandandbarrett.com/basket,641,0,0
+1784784789785,1273,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,330481,134,10,10,https://www.hollandandbarrett.com/basket,650,0,0
+1784784789716,1372,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,332209,134,10,10,https://www.hollandandbarrett.com/basket,722,0,0
+1784784789741,1352,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,329380,134,10,10,https://www.hollandandbarrett.com/basket,653,0,0
+1784784790679,445,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,53525,125,10,10,https://automationexercise.com/#google_vignette,419,0,0
+1784784790755,396,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,53521,125,10,10,https://automationexercise.com/#google_vignette,372,0,0
+1784784790099,1073,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,122018,149,10,10,https://practicetestautomation.com/practice-test-login/,1028,0,0
+1784784789767,1429,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,330479,134,10,10,https://www.hollandandbarrett.com/basket,692,0,0
+1784784791125,78,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-7,text,false,,6635,126,10,10,https://www.signalhire.com/login,78,0,0
+1784784791151,52,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-2,text,false,,6635,126,10,10,https://www.signalhire.com/login,51,0,0
+1784784790730,505,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-4,text,false,,15033,129,10,10,https://personal.chase.com/personal,500,0,0
+1784784790935,309,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,300,0,0
+1784784790480,926,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,53525,125,10,10,https://automationexercise.com/#google_vignette,912,0,0
+1784784791059,360,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,353,0,0
+1784784791406,39,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-8,text,false,,6634,126,10,10,https://www.signalhire.com/login,36,0,0
+1784784791093,353,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,347,0,0
+1784784791088,373,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,369,0,0
+1784784791197,282,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,278,0,0
+1784784791203,347,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-2,text,false,,15033,129,10,10,https://personal.chase.com/personal,346,0,0
+1784784791236,376,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,122026,149,10,10,https://practicetestautomation.com/practice-test-login/,333,0,0
+1784784791245,380,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,53525,125,10,10,https://automationexercise.com/#google_vignette,345,0,0
+1784784791626,28,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-9,text,false,,6635,126,10,10,https://www.signalhire.com/login,28,0,0
+1784784791203,508,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-7,text,false,,15033,129,10,10,https://personal.chase.com/personal,507,0,0
+1784784791420,344,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,53531,125,10,10,https://automationexercise.com/#google_vignette,319,0,0
+1784784791445,332,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-8,text,false,,15033,129,10,10,https://personal.chase.com/personal,330,0,0
+1784784791765,29,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-10,text,false,,6635,126,10,10,https://www.signalhire.com/login,22,0,0
+1784784791462,379,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,53521,125,10,10,https://automationexercise.com/#google_vignette,340,0,0
+1784784791446,404,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,53519,125,10,10,https://automationexercise.com/#google_vignette,373,0,0
+1784784791841,31,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-3,text,false,,6635,126,10,10,https://www.signalhire.com/login,30,0,0
+1784784791480,393,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,53529,125,10,10,https://automationexercise.com/#google_vignette,371,0,0
+1784784791850,34,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-1,text,false,,6635,126,10,10,https://www.signalhire.com/login,34,0,0
+1784784791873,43,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-5,text,false,,6635,126,10,10,https://www.signalhire.com/login,43,0,0
+1784784791173,833,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,558,0,0
+1784784792006,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-6,text,false,,871,0,10,10,null,0,0,0
+1784784791795,349,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-10,text,false,,15033,129,10,10,https://personal.chase.com/personal,347,0,0
+1784784791778,371,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,122024,149,10,10,https://practicetestautomation.com/practice-test-login/,331,0,0
+1784784791655,510,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-9,text,false,,15033,129,10,10,https://personal.chase.com/personal,509,0,0
+1784784791872,344,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-3,text,false,,15033,129,10,10,https://personal.chase.com/personal,344,0,0
+1784784791884,336,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-1,text,false,,15033,129,10,10,https://personal.chase.com/personal,333,0,0
+1784784791917,336,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-5,text,false,,15033,129,10,10,https://personal.chase.com/personal,335,0,0
+1784784791550,967,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,122024,149,10,10,https://practicetestautomation.com/practice-test-login/,915,0,0
+1784784792007,522,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,333233,134,10,10,https://www.hollandandbarrett.com/basket,357,0,0
+1784784792217,387,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,122026,149,10,10,https://practicetestautomation.com/practice-test-login/,337,0,0
+1784784792220,413,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,122020,149,10,10,https://practicetestautomation.com/practice-test-login/,351,0,0
+1784784791711,1008,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,121869,149,10,10,https://practicetestautomation.com/practice-test-login/,952,0,0
+1784784792529,294,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,285,0,0
+1784784792166,949,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,122026,149,10,10,https://practicetestautomation.com/practice-test-login/,896,0,0
+1784784792144,1026,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,121869,149,10,10,https://practicetestautomation.com/practice-test-login/,970,0,0
+1784784792824,353,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,53519,125,10,10,https://automationexercise.com/#google_vignette,336,0,0
+1784784793177,40,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-6,text,false,,6635,126,10,10,https://www.signalhire.com/login,39,0,0
+1784784791613,1609,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,627,0,0
+1784784793223,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-4,text,false,,871,0,10,10,null,0,0,0
+1784784792254,1026,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,121873,149,10,10,https://practicetestautomation.com/practice-test-login/,959,0,0
+1784784792518,886,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,592,0,0
+1784784793405,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-2,text,false,,871,0,10,10,null,0,0,0
+1784784792605,847,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,543,0,0
+1784784793453,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-3,text,false,,871,0,10,10,null,0,0,0
+1784784792634,859,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,576,0,0
+1784784793494,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-1,text,false,,871,0,10,10,null,0,0,0
+1784784792720,800,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,531,0,0
+1784784793520,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-7,text,false,,871,0,10,10,null,0,0,0
+1784784793223,459,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,333362,134,10,10,https://www.hollandandbarrett.com/basket,369,0,0
+1784784792149,1614,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,1318,0,0
+1784784793764,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-8,text,false,,871,0,10,10,null,0,0,0
+1784784793218,711,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-6,text,false,,15033,129,10,10,https://personal.chase.com/personal,402,0,0
+1784784793453,536,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,330413,134,10,10,https://www.hollandandbarrett.com/basket,405,0,0
+1784784793683,318,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,318,0,0
+1784784793116,887,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,595,0,0
+1784784794002,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-9,text,false,,871,0,10,10,null,0,0,0
+1784784793170,880,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,588,0,0
+1784784794049,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-10,text,false,,871,0,10,10,null,0,0,0
+1784784793281,848,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,563,0,0
+1784784794129,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-5,text,false,,871,0,10,10,null,0,0,0
+1784784793405,749,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,330551,134,10,10,https://www.hollandandbarrett.com/basket,429,0,0
+1784784793764,485,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,333276,134,10,10,https://www.hollandandbarrett.com/basket,391,0,0
+1784784793988,291,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,284,0,0
+1784784793928,400,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,122022,149,10,10,https://practicetestautomation.com/practice-test-login/,343,0,0
+1784784794001,337,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,53527,125,10,10,https://automationexercise.com/#google_vignette,320,0,0
+1784784794338,24,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-4,text,false,,6633,126,10,10,https://www.signalhire.com/login,23,0,0
+1784784794154,282,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,275,0,0
+1784784794248,291,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,291,0,0
+1784784794279,453,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,53527,125,10,10,https://automationexercise.com/#google_vignette,344,0,0
+1784784794363,375,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-4,text,false,,15033,129,10,10,https://personal.chase.com/personal,369,0,0
+1784784794732,104,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-3,text,false,,6635,126,10,10,https://www.signalhire.com/login,95,0,0
+1784784793494,1361,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,334752,134,10,10,https://www.hollandandbarrett.com/basket,793,0,0
+1784784794129,729,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,335022,134,10,10,https://www.hollandandbarrett.com/basket,400,0,0
+1784784793521,1340,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,331930,134,10,10,https://www.hollandandbarrett.com/basket,827,0,0
+1784784794437,432,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,53523,125,10,10,https://automationexercise.com/#google_vignette,363,0,0
+1784784794541,360,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,53529,125,10,10,https://automationexercise.com/#google_vignette,336,0,0
+1784784794869,39,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-2,text,false,,6635,126,10,10,https://www.signalhire.com/login,38,0,0
+1784784794902,29,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-8,text,false,,6635,126,10,10,https://www.signalhire.com/login,29,0,0
+1784784794738,380,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,122032,149,10,10,https://practicetestautomation.com/practice-test-login/,331,0,0
+1784784794329,831,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,550,0,0
+1784784795161,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-6,text,false,,871,0,10,10,null,0,0,0
+1784784794855,309,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,302,0,0
+1784784794858,315,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,309,0,0
+1784784794860,322,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,320,0,0
+1784784794836,404,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-3,text,false,,15033,129,10,10,https://personal.chase.com/personal,374,0,0
+1784784794908,335,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-2,text,false,,15033,129,10,10,https://personal.chase.com/personal,334,0,0
+1784784794932,352,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-8,text,false,,15033,129,10,10,https://personal.chase.com/personal,350,0,0
+1784784794050,1394,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,329084,134,10,10,https://www.hollandandbarrett.com/basket,816,0,0
+1784784795161,463,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,329063,134,10,10,https://www.hollandandbarrett.com/basket,374,0,0
+1784784795244,414,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,122018,149,10,10,https://practicetestautomation.com/practice-test-login/,345,0,0
+1784784795241,427,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,122024,149,10,10,https://practicetestautomation.com/practice-test-login/,361,0,0
+1784784794002,1687,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,330549,134,10,10,https://www.hollandandbarrett.com/basket,838,0,0
+1784784795285,409,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,122030,149,10,10,https://practicetestautomation.com/practice-test-login/,375,0,0
+1784784795444,298,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,289,0,0
+1784784795625,335,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,321,0,0
+1784784795183,777,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,53521,125,10,10,https://automationexercise.com/#google_vignette,746,0,0
+1784784795960,41,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-7,text,false,,6634,126,10,10,https://www.signalhire.com/login,40,0,0
+1784784795690,311,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,291,0,0
+1784784795119,970,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,634,0,0
+1784784796090,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-4,text,false,,871,0,10,10,null,0,0,0
+1784784795173,925,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,53531,125,10,10,https://automationexercise.com/#google_vignette,908,0,0
+1784784795165,934,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,53521,125,10,10,https://automationexercise.com/#google_vignette,878,0,0
+1784784796099,31,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-5,text,false,,6635,126,10,10,https://www.signalhire.com/login,31,0,0
+1784784796099,32,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-1,text,false,,6635,126,10,10,https://www.signalhire.com/login,31,0,0
+1784784796001,346,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-7,text,false,,15033,129,10,10,https://personal.chase.com/personal,345,0,0
+1784784795742,721,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,53529,125,10,10,https://automationexercise.com/#google_vignette,696,0,0
+1784784796130,364,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-5,text,false,,15033,129,10,10,https://personal.chase.com/personal,363,0,0
+1784784796463,56,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-10,text,false,,6635,126,10,10,https://www.signalhire.com/login,55,0,0
+1784784796131,390,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-1,text,false,,15033,129,10,10,https://personal.chase.com/personal,362,0,0
+1784784796090,462,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,333207,134,10,10,https://www.hollandandbarrett.com/basket,384,0,0
+1784784795669,903,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,595,0,0
+1784784796572,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-3,text,false,,871,0,10,10,null,0,0,0
+1784784795960,616,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,53527,125,10,10,https://automationexercise.com/#google_vignette,593,0,0
+1784784795659,921,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,629,0,0
+1784784796581,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-2,text,false,,871,0,10,10,null,0,0,0
+1784784796001,587,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,53525,125,10,10,https://automationexercise.com/#google_vignette,559,0,0
+1784784796576,36,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-6,text,false,,6635,126,10,10,https://www.signalhire.com/login,35,0,0
+1784784795695,922,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,605,0,0
+1784784796617,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-8,text,false,,871,0,10,10,null,0,0,0
+1784784796589,33,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-9,text,false,,6635,126,10,10,https://www.signalhire.com/login,32,0,0
+1784784796348,397,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,121863,149,10,10,https://practicetestautomation.com/practice-test-login/,344,0,0
+1784784796552,296,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,288,0,0
+1784784796520,349,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-10,text,false,,15033,129,10,10,https://personal.chase.com/personal,348,0,0
+1784784796522,406,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,122022,149,10,10,https://practicetestautomation.com/practice-test-login/,348,0,0
+1784784796495,434,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,121873,149,10,10,https://practicetestautomation.com/practice-test-login/,379,0,0
+1784784796618,480,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,331844,134,10,10,https://www.hollandandbarrett.com/basket,348,0,0
+1784784796622,510,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-9,text,false,,15033,129,10,10,https://personal.chase.com/personal,508,0,0
+1784784796572,614,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,334690,134,10,10,https://www.hollandandbarrett.com/basket,524,0,0
+1784784796613,645,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-6,text,false,,15033,129,10,10,https://personal.chase.com/personal,347,0,0
+1784784796870,408,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,121877,149,10,10,https://practicetestautomation.com/practice-test-login/,355,0,0
+1784784796848,445,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-4,text,true,,53531,125,10,10,https://automationexercise.com/#google_vignette,429,0,0
+1784784797294,55,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-4,text,false,,6635,126,10,10,https://www.signalhire.com/login,55,0,0
+1784784797099,309,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,9325,123,10,10,https://saucelabs.com/sign-up,305,0,0
+1784784797187,300,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,9350,123,10,10,https://saucelabs.com/sign-up,299,0,0
+1784784797133,368,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,122022,149,10,10,https://practicetestautomation.com/practice-test-login/,328,0,0
+1784784796746,855,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,48247,135,10,10,https://www.easycalculation.com/index.php,549,0,0
+1784784797601,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-7,text,false,,871,0,10,10,null,0,0,0
+1784784797258,416,HTTP Request PractiseTestAutomation,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,122034,149,10,10,https://practicetestautomation.com/practice-test-login/,356,0,0
+1784784797350,328,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-4,text,false,,15033,129,10,10,https://personal.chase.com/personal,327,0,0
+1784784797409,371,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-8,text,true,,53523,125,9,9,https://automationexercise.com/#google_vignette,331,0,0
+1784784796930,852,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,48247,135,9,9,https://www.easycalculation.com/index.php,559,0,0
+1784784797782,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-5,text,false,,871,0,9,9,null,0,0,0
+1784784796928,866,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,48247,135,9,9,https://www.easycalculation.com/index.php,569,0,0
+1784784797794,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-1,text,false,,871,0,9,9,null,0,0,0
+1784784797781,40,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-8,text,false,,6634,126,9,9,https://www.signalhire.com/login,38,0,0
+1784784797487,356,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-3,text,true,,53529,125,9,9,https://automationexercise.com/#google_vignette,332,0,0
+1784784797843,42,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-3,text,false,,6635,126,9,9,https://www.signalhire.com/login,42,0,0
+1784784796582,1400,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,333278,134,9,9,https://www.hollandandbarrett.com/basket,744,0,0
+1784784797278,929,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,48247,135,9,9,https://www.easycalculation.com/index.php,596,0,0
+1784784798208,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-10,text,false,,871,0,9,9,null,0,0,0
+1784784797885,337,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-3,text,false,,15033,129,9,9,https://personal.chase.com/personal,333,0,0
+1784784797601,637,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,336055,134,8,8,https://www.hollandandbarrett.com/basket,396,0,0
+1784784797982,287,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,9350,123,8,8,https://saucelabs.com/sign-up,285,0,0
+1784784797822,503,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-8,text,false,,15033,129,8,8,https://personal.chase.com/personal,501,0,0
+1784784797501,873,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,48247,135,7,7,https://www.easycalculation.com/index.php,585,0,0
+1784784798374,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-9,text,false,,871,0,7,7,null,0,0,0
+1784784798238,276,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,9325,123,7,7,https://saucelabs.com/sign-up,270,0,0
+1784784797674,850,HTTP Request EasyCalculation,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,48247,135,7,7,https://www.easycalculation.com/index.php,583,0,0
+1784784798524,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Unrecognized IPv6 address format,Non GUI TestCases Using CSV files  1-6,text,false,,871,0,7,7,null,0,0,0
+1784784798269,402,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-2,text,true,,53523,125,7,7,https://automationexercise.com/#google_vignette,351,0,0
+1784784798671,43,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-2,text,false,,6635,126,7,7,https://www.signalhire.com/login,42,0,0
+1784784798208,513,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,331840,134,7,7,https://www.hollandandbarrett.com/basket,432,0,0
+1784784798514,349,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-7,text,true,,53523,125,7,7,https://automationexercise.com/#google_vignette,329,0,0
+1784784798863,37,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-7,text,false,,6635,126,7,7,https://www.signalhire.com/login,36,0,0
+1784784798721,292,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,9350,123,7,7,https://saucelabs.com/sign-up,282,0,0
+1784784798714,356,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-2,text,false,,15033,129,7,7,https://personal.chase.com/personal,355,0,0
+1784784797795,1329,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,333289,134,6,6,https://www.hollandandbarrett.com/basket,671,0,0
+1784784797782,1432,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,334806,134,6,6,https://www.hollandandbarrett.com/basket,780,0,0
+1784784798900,405,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-7,text,false,,15033,129,6,6,https://personal.chase.com/personal,405,0,0
+1784784799014,343,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-10,text,true,,53525,125,5,5,https://automationexercise.com/#google_vignette,327,0,0
+1784784799358,30,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-10,text,false,,6635,126,5,5,https://www.signalhire.com/login,29,0,0
+1784784799126,313,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,9325,123,5,5,https://saucelabs.com/sign-up,282,0,0
+1784784799215,278,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,9350,123,5,5,https://saucelabs.com/sign-up,273,0,0
+1784784799389,368,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-10,text,false,,15033,129,5,5,https://personal.chase.com/personal,366,0,0
+1784784798375,1382,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,329040,134,5,5,https://www.hollandandbarrett.com/basket,779,0,0
+1784784799440,406,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-1,text,true,,53523,125,4,4,https://automationexercise.com/#google_vignette,400,0,0
+1784784799847,30,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-1,text,false,,6635,126,4,4,https://www.signalhire.com/login,29,0,0
+1784784798525,1400,HTTP Request HollandAndBarrett,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,333339,134,4,4,https://www.hollandandbarrett.com/basket,800,0,0
+1784784799494,444,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-5,text,true,,53521,125,4,4,https://automationexercise.com/#google_vignette,435,0,0
+1784784799939,35,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-5,text,false,,6635,126,4,4,https://www.signalhire.com/login,32,0,0
+1784784799758,301,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,9325,123,4,4,https://saucelabs.com/sign-up,292,0,0
+1784784799926,282,HTTP Request Saucelabs,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,9325,123,4,4,https://saucelabs.com/sign-up,277,0,0
+1784784799877,336,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-1,text,false,,15033,129,4,4,https://personal.chase.com/personal,332,0,0
+1784784799974,337,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-5,text,false,,15033,129,3,3,https://personal.chase.com/personal,336,0,0
+1784784800059,386,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-9,text,true,,53521,125,2,2,https://automationexercise.com/#google_vignette,375,0,0
+1784784800445,33,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-9,text,false,,6635,126,2,2,https://www.signalhire.com/login,28,0,0
+1784784800209,339,HTTP Request AutomateExercise ,200,OK,Non GUI TestCases Using CSV files  1-6,text,true,,53525,125,2,2,https://automationexercise.com/#google_vignette,317,0,0
+1784784800549,27,HTTP Request Singnalhire,403,Forbidden,Non GUI TestCases Using CSV files  1-6,text,false,,6634,126,2,2,https://www.signalhire.com/login,26,0,0
+1784784800478,342,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-9,text,false,,15033,129,2,2,https://personal.chase.com/personal,336,0,0
+1784784800576,675,HTTP Request Personal.Chase,404,Not Found,Non GUI TestCases Using CSV files  1-6,text,false,,15033,129,1,1,https://personal.chase.com/personal,365,0,0
