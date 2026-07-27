@@ -1,0 +1,161 @@
+{
+  "info": {
+    "_postman_id": "0600425f-2420-4368-aa4b-f72c4303eae1",
+    "name": "Collection 1",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "56868197",
+    "_collection_link": "https://go.postman.co/collection/56868197-0600425f-2420-4368-aa4b-f72c4303eae1?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "GET-Request-Methods",
+      "item": [
+        {
+          "name": "Request-Postman",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "Request-Postman Copy",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "Request-Postman Copy 2",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "Request-Regres",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "Request-Restful",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        },
+        {
+          "name": "Request-Postman Copy",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "PUT Request Methods",
+      "item": [
+        {
+          "name": "PUT Request Method -Dummy",
+          "request": {
+            "method": "PUT",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n    \"status\": \"success\",\r\n    \"data\": {\r\n        \"name\": \"Rest API Testing\",\r\n        \"salary\": \"150000\",\r\n        \"age\": \"21\",\r\n        \"id\": 25\r\n    }\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://dummy.restapiexample.com/update",
+              "protocol": "https",
+              "host": [
+                "dummy",
+                "restapiexample",
+                "com"
+              ],
+              "path": [
+                "update"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "New Request",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "POST Request Methods",
+      "item": [
+        {
+          "name": "POST Request",
+          "request": {
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "[\r\n  {\r\n    \"userId\": 1,\r\n    \"id\": 1,\r\n    \"title\": \"sunt aut facere repellat provident occaecati excepturi optio reprehenderit\",\r\n    \"body\": \"API Testing\"\r\n  }\r\n]\r\n",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://jsonplaceholder.typicode.com/posts",
+              "protocol": "https",
+              "host": [
+                "jsonplaceholder",
+                "typicode",
+                "com"
+              ],
+              "path": [
+                "posts"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "POST Request 2",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "DELETE Request Methods",
+      "item": [
+        {
+          "name": "DELETE Request",
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ]
+    }
+  ]
+}
